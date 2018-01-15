@@ -133,3 +133,19 @@ section.type-two .blog-sidebar .blog-search input[type=text] {
 .contact-container{
     margin-bottom: 20px;
 }
+.site-header .header-top .header-menu>ul>li:hover>a {
+    filter: none;
+    color: #f8cd0a;
+    background: #3d3d3d;
+}
+.mobile-header{
+    width: 100%;
+    background: #3d3d3d;
+}
+.header-mobile-logo, .header-logo{
+    text-align: center;
+}
+.header-mobile-logo img{
+    height: 120px;
+    width: auto;
+}
